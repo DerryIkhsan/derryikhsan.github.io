@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#EAF6F2"/>
+      <stop offset="1" stop-color="#D1F2E8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#g)" rx="20"/>
+  <rect x="60" y="60" width="1080" height="120" fill="#fff" rx="12"/>
+  <rect x="60" y="200" width="760" height="380" fill="#fff" rx="12"/>
+  <rect x="840" y="200" width="300" height="120" fill="#fff" rx="12"/>
+  <rect x="840" y="340" width="300" height="240" fill="#fff" rx="12"/>
+  <text x="90" y="140" font-family="Inter, Arial" font-size="28" fill="#0f1724">Marketplace Dashboard — Desktop view</text>
+</svg>
