@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 360 640">
-  <rect width="360" height="640" rx="28" fill="#FFF6F6"/>
-  <rect x="18" y="28" width="324" height="56" rx="8" fill="#fff"/>
-  <rect x="18" y="100" width="324" height="120" rx="12" fill="#fff"/>
-  <rect x="18" y="240" width="140" height="110" rx="12" fill="#fff"/>
-  <rect x="184" y="240" width="158" height="110" rx="12" fill="#fff"/>
-  <text x="28" y="60" font-family="Inter, Arial" font-size="14" fill="#0f1724">Mobile — E-Commerce</text>
-</svg>
